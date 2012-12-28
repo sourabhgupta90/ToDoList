@@ -1,0 +1,59 @@
+.text-mainheading {
+    color: #0000FF;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 27px;
+    line-height: 54px;
+    text-align: center
+}
+.text-header1 {
+    color: #0000FF;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 27px;
+    line-height: 54px;
+    text-align: left
+}
+.text-header2 {
+    color: #0000FF;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 27px;
+    line-height: 54px;
+    text-align: right
+}
+.employee-list {
+    color: #000000;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 20px;
+    line-height: 54px;
+    
+}
+
+.task-handle {
+    background-color: #CFCFCF;
+    float: left;
+    width: 10px;
+    height: 19px;
+    margin-right: 5px;
+}
+.task-descripation {
+    color: #0000FF;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: center;
+}
+.task {
+    color: #0000FF;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 10px;
+    line-height: 30px;
+    text-align: left;
+}
+.create-newtask{
+    color: #0000FF;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 10px;
+    line-height: 30px;
+    text-align: left;
+  
+  
+}
