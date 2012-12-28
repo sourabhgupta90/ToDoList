@@ -28,7 +28,7 @@
     
 }
 
-.task-handle {
+/* .task-handle {
     background-color: #CFCFCF;
     float: left;
     width: 10px;
@@ -41,7 +41,8 @@
     font-size: 15px;
     line-height: 20px;
     text-align: center;
-}
+} */
+
 .task {
     color: #0000FF;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
