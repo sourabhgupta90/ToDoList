@@ -76,9 +76,17 @@ input[type="text-list"]
 { 
     width:150px;
 }
+input[type="new-project"] 
+{ 
+    width:150px;
+}
+input[type="button"] 
+{ 
+    width:150px;
+}
 .body-row{
-  margin : bottom; 
+  margin-bottom : 10px; 
 }
 .footer-row{
-  margin : bottom; 
+  margin-top: 40px;
 }

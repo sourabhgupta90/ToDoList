@@ -1,8 +1,9 @@
 $(document).ready(function(){
+  $('.goodbye').hide();
   $("#btn1").click(function(){
-    alert("Text: " + $("#test").text());
+	  $('.hello').clone().appendTo('.goodbye');
   });
   $("#btn2").click(function(){
-    alert("HTML: " + $("#test").html());
+	  $('.goodbye').hide();
   });
 });
