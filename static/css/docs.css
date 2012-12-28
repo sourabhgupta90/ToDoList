@@ -25,6 +25,7 @@
     font-size: 20px;
     line-height: 54px;
     
+    
 }
 
 .task-handle {
@@ -56,4 +57,28 @@
     text-align: left;
   
   
+}
+.subdivisional-employeelist{
+    color: #0000FF;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: center;
+    
+    width:220px;
+    padding:0px;
+    border:2px dotted gray;
+    margin:0px;
+    
+}
+
+input[type="text-list"] 
+{ 
+    width:150px;
+}
+.body-row{
+  margin : bottom; 
+}
+.footer-row{
+  margin : bottom; 
 }
