@@ -1,13 +1,11 @@
+$('.new-employee-list').hide();
 $("#add-new").click(function(){
 
-$($(".span3.employee-list")[0]).clone().insertBefore($(".span3.employee-list")[3]);
+$($(".new-employee-list")[0]).clone().show().insertBefore($(".span3.employee-list")[3]);
 
 
 });
 
-var ids = $("#container").children().map(function(n, i) {
-	  return n.id;
-	});
 
 
 
@@ -18,6 +16,9 @@ function myFunction(el) {
 	$(el).parent().append(y);
 
 	}
+
+
+
 
 
 
