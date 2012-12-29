@@ -15,7 +15,7 @@ function myFunction(el) {
 	var x = el.value;
 	var y = document.createElement("li");
 	y.innerHTML = x;
-	$("#task1").append(y);
+	$(el).parent().append(y);
 
 	}
 
