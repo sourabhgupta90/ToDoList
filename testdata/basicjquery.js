@@ -1,0 +1,9 @@
+$(document).ready(function(){
+  $('.goodbye').hide();
+  $("#btn1").click(function(){
+	  $('.hello').clone().appendTo('.goodbye');
+  });
+  $("#btn2").click(function(){
+	  $('.goodbye').hide();
+  });
+});
