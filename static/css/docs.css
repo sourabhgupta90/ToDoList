@@ -93,7 +93,10 @@ input[type="text"]
   margin-top: 40px;
 }
 
-li{
-  
-  
+.strip1{
+ height: 50px;
+}
+.strip2{
+ background-color: gray;
+ height: 5px;
 }
